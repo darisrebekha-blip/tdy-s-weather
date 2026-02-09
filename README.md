@@ -36,7 +36,6 @@ A simple and interactive weather dashboard that allows users to check the curren
 ---
 
 ## 🌍 Live Demo   
-*https://darisrebekha-blip.github.io/tdy-s-weather/*
-https://👉 
+👉 
 VIEW MY WEBSITE BY CLICKING HERE.....
 https://darisrebekha-blip.github.io/tdy-s-weather
