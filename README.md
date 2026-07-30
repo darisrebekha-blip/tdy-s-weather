@@ -38,4 +38,4 @@ A simple and interactive weather dashboard that allows users to check the curren
 ## 🌍 Live Demo   
 👉 
 VIEW MY WEBSITE BY CLICKING HERE....
-https://darisrebekha-blip.github.io/today-weather/
+https://today-weather-delta.vercel.app/
